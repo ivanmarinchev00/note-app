@@ -10,6 +10,10 @@ This is an advanced note-taking application built with React, TypeScript, and An
 - Pagination for notes listing
 - Links to specific notes - On edit or click of note title
 
+## How to run
+- npm i
+- npm start
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
