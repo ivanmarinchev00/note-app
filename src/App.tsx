@@ -5,8 +5,6 @@ import NoteManager from './components/NoteManager';
 import AppLayout from './components/Layout';
 
 function App() {
-  // move style to css class - to do
-
   return (
     <Router>
       <AppLayout>
