@@ -1,3 +1,15 @@
+## Description
+
+This is an advanced note-taking application built with React, TypeScript, and Ant Design. The application uses local storage to persist notes, ensuring that user data is retained on browser reload. It supports features like adding, editing, and deleting notes, pagination, and responsive design.
+
+## Features
+
+- Add, edit, and delete notes
+- Persistent storage using local storage
+- Responsive design with Ant Design
+- Pagination for notes listing
+- Links to specific notes - On edit or click of note title
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
@@ -45,3 +57,4 @@ You can learn more in the [Create React App documentation](https://facebook.gith
 
 To learn React, check out the [React documentation](https://reactjs.org/).
 # note-app
+
