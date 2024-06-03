@@ -1,0 +1,29 @@
+.layout {
+    width: 100%;
+    min-height: 100vh;
+    padding: 24px;
+  }
+  
+  .header {
+    background: inherit;
+    padding: 0;
+  }
+  
+  .title {
+    margin: 16px 0;
+  }
+  
+  .content {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+  }
+  
+  .content-xl {
+    width: 50%;
+  }
+  
+  .content-default {
+    width: 100%;
+  }
+  
